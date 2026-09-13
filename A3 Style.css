@@ -1,0 +1,72 @@
+h1{
+    background-color:rgba(255, 0, 0, 0.902);
+    color:rgba(0, 255, 255, 0.902); 
+}
+
+h2{
+    background-color:rgba(0, 255, 0, 0.902);
+    color:rgba(255, 0, 255, 0.902); 
+}
+
+.P2{
+    background-color:rgba(0, 0, 255, 0.902);
+    color:rgba(255, 255, 0, 0.902); 
+}
+
+.ps2{
+    background-color:rgba(255, 255, 0, 0.902);
+}
+
+.Main {
+    color: #ff0000;
+    background-color: #00ff00
+}
+
+.contact {
+    color: #0000ff;
+    background-color: #ffff00
+}
+
+.list {
+    color: #ff00ff;
+    background-color: #00ffff
+}
+#Info {
+    color: #150063;
+    background-color: #ff0000
+}
+
+
+.Short {
+    background-color: #754995
+}   
+
+
+a:link {
+    color:#ff0000
+}
+a:visited {
+    color:#00ff0d
+}
+a:hover {
+    color:#fbff00
+}
+a:active {
+    color:#ff0000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color:green;
+}
