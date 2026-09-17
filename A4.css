@@ -1,0 +1,29 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Center{
+    text-align:center ;
+}
+
+.justify{ 
+    text-align: justify;
+}
+
+.Headings{
+    color: orange;
+    font-style:italic;
+  font-weight: normal;
+}
+
+body{
+    background-color: #999999;
+    background-image: url(Smiley.png);
+
+}
+.Border{
+    border:2px solid black;
+    padding: 10px;
+    margin: 20px;
+    background-color: yellow;
+}
