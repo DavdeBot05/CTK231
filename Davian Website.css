@@ -10,7 +10,6 @@ body {
 }
 
 header {
-    min-height: 70px;
     padding: 12px 2%;
     background-color: #0d0b0b;
     display: flex;
@@ -41,11 +40,10 @@ nav a:hover {
 }
 
 .profile-image {
- width: 100%;
-    max-width: 300px;
-    height: 440px;
-    border-radius: 50%;
-     object-fit: fill;
+  width: 550px;
+    height: 470px;
+    border-radius: 70%;
+     object-fit: center;
 }
 
 .intro {
@@ -56,14 +54,13 @@ nav a:hover {
 }
 
 
-
-.intro-copy {
+.intro-text {
     flex: 1;
     padding-top: 60px;
     padding-right: 4%;
 }
 
-.intro-copy h1 {
+.intro-text h1 {
     margin: 0 0 42px;
     color:  #5a60c7;
     font-size: 50px;
@@ -71,7 +68,7 @@ nav a:hover {
 
 }
 
-.intro-copy p {
+.intro-text p {
     max-width: 800px;
     margin: 0;
     font-size: 30px;
@@ -79,7 +76,7 @@ nav a:hover {
     line-height: 1.5;
 }
 
-.intro-copy p span {
+.intro-text p span {
     color: #9196f2;
 }
 
